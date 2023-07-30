@@ -1,7 +1,7 @@
-package ru.gb.iskluchenia.Final;
-
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Scanner;
 
 class DataFormatException extends Exception {
@@ -54,3 +54,4 @@ public class UserInputData {
         }
     }
 }
+
